@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Yorkshire Deed Certificate by William Bron, Collector of the King’s Rents</title>
+      <author>William Bron</author>
+      <respStmt>
+        <resp>Encoded by</resp>
+        <name xml:id="KB">Kate Brasseur</name>
+      </respStmt>
+    </titleStmt>
+    <sourceDesc>
+      <imprint>
+        <pubPlace>Yorkshire, England</pubPlace>
+        <date>May 24, 1405</date>
+      </imprint>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <langUsage>
+      <language ident="la">Latin</language>
+      <language ident="en">English</language>
+    </langUsage>
+    <textClass>
+      <keywords scheme="#lcsh">
+        <list>
+          <item>Envelope, Charter</item>
+          <item>Deed -- Collecting of Rents 1405</item>
+        </list>
+      </keywords>
+    </textClass>
+  </profileDesc>
+</teiHeader>
